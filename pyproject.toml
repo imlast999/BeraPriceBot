@@ -2,7 +2,7 @@
 name = "python-template"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["imlast999 <lxstbrexthe@gmail.com>"]
 requires-python = ">=3.11"
 dependencies = [
     "flask>=3.1.0",
