@@ -11,7 +11,7 @@ from flask import Flask, render_template
 import threading
 
 # Configura tu bot de Telegram
-TOKEN = "7907463563:AAHQ6WHQVfCaX8xYcxlE-82zQHqxMPvRdXU"
+TOKEN = "Ur Own Token lol"
 import logging
 
 logger = telebot.logger
