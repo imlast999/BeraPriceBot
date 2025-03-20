@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bot Control Panel</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: #2d2d2d;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .button {
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+        .stop {
+            background-color: #ff4444;
+            color: white;
+        }
+        .restart {
+            background-color: #00C851;
+            color: white;
+        }
+        .status {
+            background-color: #33b5e5;
+            color: white;
+        }
+        .status-indicator {
+            padding: 10px;
+            margin-top: 20px;
+            border-radius: 5px;
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bot Control Panel</h1>
+        <div>
+            <button class="button stop" onclick="controlBot('stop')">Stop Bot</button>
+            <button class="button restart" onclick="controlBot('restart')">Restart Bot</button>
+            <button class="button status" onclick="checkStatus()">Check Status</button>
+        </div>
+        <div class="status-indicator" id="status">
+            Status: Checking...
+        </div>
+    </div>
+    <script>
+        function controlBot(action) {
+            fetch(`/${action}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('status').innerText = data;
+                });
+        }
+
+        function checkStatus() {
+            fetch('/status')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('status').innerText = data;
+                });
+        }
+
+        // Check status every 5 seconds
+        setInterval(checkStatus, 5000);
+    </script>
+</body>
+</html>

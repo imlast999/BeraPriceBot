@@ -1,0 +1,200 @@
+[2025-03-14 11:55:05.189731] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 14:15:25.029530] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 14:50:01.326116] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 15:25:03.358969] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 16:00:09.886289] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 16:30:16.260277] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 17:05:22.594868] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 17:40:29.418520] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-14 18:40:18.182580] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 14:35:29.692974] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 16:35:00.830972] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 17:10:07.227466] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 18:25:01.232481] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 19:00:08.330712] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 19:30:14.982227] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 20:05:21.244037] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 20:40:27.909326] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 21:10:03.678038] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 21:45:10.140702] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-15 23:30:27.558931] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 13:00:27.828994] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 13:35:03.976391] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 14:05:09.799806] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 14:40:16.028236] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 15:15:22.211174] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 15:40:27.914613] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 16:05:03.486118] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 16:30:09.340079] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 16:55:14.953197] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 17:20:20.905487] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 17:45:26.437671] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 18:10:01.628465] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 18:35:07.543888] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 19:00:13.479102] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 19:25:19.802559] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 19:50:25.636525] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 20:15:01.348342] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 20:40:07.357155] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 21:05:13.564700] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+[2025-03-16 21:30:19.609866] Error al crear el gráfico: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
